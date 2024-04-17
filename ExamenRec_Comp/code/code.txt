@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<HTML>
+    <head>
+        <title>Mi primer web</title>
+    </head>
+    <body>
+        <h1>Hola mundo!</h1>
+      </body>
+</HTML>
